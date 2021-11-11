@@ -1,1 +1,1 @@
-# learning-rubyandrails
+# learning-ruby
